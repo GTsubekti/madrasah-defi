@@ -55,7 +55,7 @@ export default function HomePage() {
               MadrasahDeFi
             </div>
             <div className="small">
-              Laboratorium DeFi Madrasah untuk simulasi ta’awun dan qard hasan, berbasis TrustNFT, dibangun di Base Sepolia
+              Laboratorium DeFi Madrasah MAN 5 KEDIRI untuk simulasi ta’awun dan qard hasan, berbasis TrustNFT, dibangun di Base Sepolia
             </div>
           </div>
         </div>
