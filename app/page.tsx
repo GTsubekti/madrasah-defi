@@ -94,7 +94,7 @@ export default function HomePage() {
           </div>
 
           <h1 className="h1" style={{ marginTop: 14 }}>
-            Laboratorium DeFi Madrasah
+            Laboratorium DeFi Madrasah MAN 5 Kediri
             <br />
             untuk simulasi ta’awun & qard hasan
           </h1>
